@@ -16,8 +16,3 @@ Results driven IT professional with expierene in information technology, creativ
 
 
 
-> A blockquote indicates that the content is a quote, an e-mail being replited to, etc. 
-
-> 
-
->Every line (blank or not) of a blockquote begins with '>', followed by a space.
