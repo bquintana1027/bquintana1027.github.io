@@ -12,5 +12,5 @@ Results driven IT professional with expierene in information technology, creativ
 
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/public-profile/in/benjamin-quintana-b3b463171 on LinkedinIn profile)
+* [LinkedIn](https://www.linkedin.com/public-profile/in/benjamin-quintana-b3b463171)
 
