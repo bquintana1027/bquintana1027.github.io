@@ -6,4 +6,8 @@ Results driven IT professional with expierene in information technology, creativ
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
