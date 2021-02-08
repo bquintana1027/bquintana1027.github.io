@@ -6,11 +6,13 @@ Results driven IT professional with expierene in information technology, creativ
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/bquintana1027/hello-world-java)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/bquintana1027/hello-world-android)
 
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/public-profile/in/benjamin-quintana-b3b463171)
+
+
 
